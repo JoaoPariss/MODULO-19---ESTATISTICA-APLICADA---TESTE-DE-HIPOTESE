@@ -19,7 +19,7 @@ Esta atividade tem como objetivo comparar o desempenho de duas estratégias de e
 - **Variância A:** `129.27`  
 - **Variância B:** `110.47`  
 
-Amostras geradas com distribuição normal e tamanho `n = 5`.
+Amostras geradas com distribuição normal e tamanho `n = 50`.
 
 ---
 
